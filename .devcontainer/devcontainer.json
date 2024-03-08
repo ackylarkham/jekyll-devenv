@@ -1,5 +1,5 @@
 {
-	"name": "jekyll開発環境",
+	"name": "Jekyll開発環境",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
