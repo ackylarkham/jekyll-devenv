@@ -1,5 +1,5 @@
-# Java 開発環境
-#   Open
+# Jekyll 開発環境
+#   VS Code 開発コンテナーを使用したJekyllによるドキュメント開発環境
 #
 FROM ruby:latest
 
