@@ -46,5 +46,4 @@ WORKDIR /home/$USERNAME
 RUN gem install jekyll
 
 # コンテナ起動時に実行するコマンド
-#CMD ["/bin/bash"]
-CMD ["bundle","add","webrick"]
+CMD ["/bin/bash"]
