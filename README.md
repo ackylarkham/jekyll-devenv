@@ -73,7 +73,15 @@ VS Codeのターミナルを開き、コマンドを入力して[Ruby]と[Jekyll
 
 [Jekyll を使用して GitHub Pages サイトを作成する](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll?platform=linux)
 
-[GitHub Pages]に何らかのドキュメンテーションを公開するには[Just the Docsのテンプレート](https://github.com/just-the-docs/just-the-docs-template)を使うことができます。
+上記のドキュメントを参照して作成してこのリポジトリのgh-pagesブランチに作成したGitHub Pagesは以下のとおりです。
+
+[GitHub Pagesのサンプル](https://ackylarkham.github.io/jekyll-devenv/)
+
+また、[GitHub Pages]のlook&fellを変更するために以下のようなテーマがあります。
+
+[Supported Themes](https://pages.github.com/themes/)
+
+上記のテーマ以外にもテーマが公開されており、例えば[Just the Docs]は、[GitHub Pages]にドキュメンテーションを公開するためのテーマです。
 
 [Jekyll]:https://jekyllrb.com/
 [GitHub Pages]: https://docs.github.com/pages
@@ -82,3 +90,5 @@ VS Codeのターミナルを開き、コマンドを入力して[Ruby]と[Jekyll
 [docker]: https://www.docker.com/
 [podman]: https://podman.io/
 [Ruby]: https://www.ruby-lang.org
+[Just the Docs]: (https://github.com/just-the-docs/just-the-docs-template)
+
